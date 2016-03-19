@@ -23,6 +23,8 @@ body {
   position: relative;
   width: 320px;
   display: block;
+  padding-top: 45px;
+  margin: auto;
 }
 
 .robot-body {
@@ -35,6 +37,7 @@ body {
   width: 46px;
   left: 136px;
   top: 100%;
+  transition: all 1000ms linear;
 }
 
 .robot-head-right,
